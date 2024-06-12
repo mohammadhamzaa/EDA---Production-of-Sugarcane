@@ -8,10 +8,10 @@ This analysis project was assigned as part of the GeeksforGeeks Data Science cou
 The dataset contains information about sugarcane production in various countries and includes the following columns --
 
 1> Country: The name of the country.<br />
-2> Continent: The continent where the country is located.
-3> Production(Tons): Total sugarcane production in tons.
-4> Production_per_person(Kg): Sugarcane production per person in kilograms.
-5> Acreage(Hectare): Total acreage of land used for sugarcane cultivation in hectares.
+2> Continent: The continent where the country is located.<br />
+3> Production(Tons): Total sugarcane production in tons.<br />
+4> Production_per_person(Kg): Sugarcane production per person in kilograms.<br />
+5> Acreage(Hectare): Total acreage of land used for sugarcane cultivation in hectares.<br />
 6> Yield(Kg/Hectare): Yield of sugarcane in kilograms per hectare.
 
 ### Data Cleaning
