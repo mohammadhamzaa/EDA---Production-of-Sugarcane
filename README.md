@@ -1,6 +1,6 @@
 # EDA---Production-of-Sugarcane
 
-This analysis project was assigned as part of the GeeksforGeeks Data Science course.This repository features Notebook dedicated to analyzing sugarcane production data using Python, leveraging popular data analysis libraries such as Pandas, Seaborn, and Matplotlib. The dataset utilized in this analysis is titled "List of Countries by Sugarcane Production.csv." This analysis project was assigned as part of the GeeksforGeeks Data Science course.
+This analysis project was assigned as part of the GeeksforGeeks Data Science course.This repository features Notebook dedicated to analyzing sugarcane production data using Python, leveraging popular data analysis libraries such as Pandas, Seaborn, and Matplotlib. The dataset utilized in this analysis is titled "List of Countries by Sugarcane Production.csv." 
 
 ## Contents
 
